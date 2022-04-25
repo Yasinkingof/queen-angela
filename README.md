@@ -66,7 +66,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 <a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## SKE TECH)   
+## SKE TECH   
 ### ⚠ Warning ⚠
 
 ```
